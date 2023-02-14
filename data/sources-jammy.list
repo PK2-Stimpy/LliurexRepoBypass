@@ -1,0 +1,2 @@
+deb http://mirror.easyname.at/ubuntu-archive/ jammy main
+deb-src http://mirror.easyname.at/ubuntu-archive/ jammy main

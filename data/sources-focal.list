@@ -1,0 +1,2 @@
+deb http://mirror.easyname.at/ubuntu-archive/ focal main
+deb-src http://mirror.easyname.at/ubuntu-archive/ focal main

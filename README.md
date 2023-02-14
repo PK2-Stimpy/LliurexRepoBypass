@@ -1,1 +1,3 @@
-# LliurexRepo-Installer
+# LliurexRepoBypass-Installer
+
+This installer is to install a repository that's not the lliurex one. It is made since they are starting to ban ubuntu official repositories for no reason...

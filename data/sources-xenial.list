@@ -1,0 +1,2 @@
+deb http://mirror.easyname.at/ubuntu-archive/ xenial main 
+deb-src http://mirror.easyname.at/ubuntu-archive/ xenial main 
