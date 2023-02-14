@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "Reverting installation..."
 
 rm /etc/apt/sources.list

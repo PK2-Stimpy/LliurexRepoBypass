@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "Installing new mirror..."
 
 . /etc/lsb-release
